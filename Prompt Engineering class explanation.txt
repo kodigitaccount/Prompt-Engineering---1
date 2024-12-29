@@ -1,0 +1,282 @@
+*****
+29th dec 
+workshop : Roadmap to prompt engineering
+******
+
+1- my introduction 
+	https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+	
+2- what is prompt engineer ?
+	most of the employee they wanted to learn PE 
+	research & booming field
+	prompt engineer 2yr back -- new job market
+	2025-2030 (rapid growth)
+	salary depent on employ(
+		fresher -- 7lpa -- 1cr 
+	based on organization standar, intervie (salary will fixed organization)
+	
+today session is non technical session 
+	AI TOOLS -- ai tools will pull data give you the informatioon
+
+we will build the code how the promps are create and how to create frontend
+
+3-  front end - user write the query in prompt( any que
+	backe end -- generative ai model preprocess 
+				fetch the relavant information for the query 
+			
+	devloper or engineer who will design a prompt is called prompt engineer 
+
+4- how to write a effective prompt 
+
+	being a prompt enginner always write the prompt effectivly 
+
+	open ai - chat gpt ( paidone)
+	if you dont write cost will deduction from the organziton
+
+llm model - gpt, llama, gemini ai 
+
+5- i showed the prompt example & i will share the document to you for download these prompts
+
+6- fresher, nontechnical, experince 
+
+==========
+ROADMAP TO LEARN PROMPT ENGINEER 
+==========
+1- PROPER MINDSET IS REQUIRE
+
+2- CONSISTENCY LEARNING & CONTINUOUS PRACTISE 
+
+3- python 
+		basic 
+			data type
+			data structure 
+			data analyst - np, pd, sns, scipy 
+			loops
+			conditional statement 
+		function
+			recurssion
+			lambda
+			function argument 
+			user def function 
+			multithreding
+			generator 
+		oops 
+			class
+			method
+			inheritence
+			polymorphism
+			encapsulation 
+	
+4- NLP (NATURAL LANGUAGE PROCESS) 
+	NLTK
+	SPACY
+	TOPIC MODELING
+	text cleaning
+	stopword
+	pos
+	transformer ( BERT)
+		ROBERTA 
+		DISTILBERT
+	how to convert text to the vector
+		bow 
+		tfidf
+		word2vec gensim model
+	skipgram
+	cbow
+	ner
+	pos
+	pretrained transformer 
+	transfer learning 
+		-- image net
+		-- resnet
+	embeeding 
+	
+text generated from social media, comment
+	nlp + ml model -- remove the wrong & harmfull content
+
+5- Deep learning & neural netowrk 
+	concept of deep leanring framework
+		tensorflow
+		keras
+		pytorch
+	
+	neural network 
+	nerual network architecture 
+	ANN (user trained numerical data) 
+	CNN (user train image, video)
+	RNN  user trained sppech, text ) -- advance nlp 
+	GNN (research field)
+	
+	pretrained transfer learning -- imagenet 
+		
+6- computer vision 
+	yolo (ultralytics)
+	opencv
+	mediapip
+	roboflow 
+	image preprocess & video processing
+
+7- generative ai 
+
+	Text bases model
+ Multimodel
+ Clip Architecture
+ VQGAN Architecture
+ Taming Transformer Architecture
+ Autoencoder
+ VAE(Variational Auto Encoder)
+ RETRIEVAL AUGMENTED GENERATION (RAG)
+ HUGGING FACE
+ CREW AI
+ GROQ
+ STABLE DIFFUSION
+ GITHUB COPILOT
+ LLAMAINDEX
+ FAST API
+
+8- LLM MODEL -- lanchain framework 
+	
+	OPENAI  
+	GOOGLE
+	META
+
+9- vector database 
+		how text embeeded to vector 
+	
+	pincone
+	chroma
+	milvus
+	qdrant
+	faiss -- most organization are using faiss
+	
+langching -- google - langchain documentation 
+tensorflow -- tensorflw 
+
+every document - github 
+
+
+10- AGENTS
+	
+	agents are interact with llm model fethc the 
+	content from internet
+
+	AI AGENTS
+		langchin agents
+		crew ai agent
+		AGI -- research is going on agi
+	
+
+11 - every concept we need to learn  & practise the code
+	
+		keep focus on the code 
+			difference why we got error
+
+12- nice resume with client name & capstone project
+	BFSI domain 
+	
+13- upload your resume job market
+
+14- keep research, keep learning, keep giving interview
+
+15- finally offer will be release
+
+==== complete & indepht roadmap for 
+
+GENERATIVE AI & PROMPT ENGINEERING =======
+		+ 
+		MACHINE LEANRING model (reg, classif, cluster)
+		DATA ANLYST (eda)
+		statistic 
+
+FRONT ENDT
+DEPLOYMENT 
+	MLOPS 
+	CICD PIPELINE
+	
+AZUR AI 
+POWERBI 
+SQL DATABASE
+
+==== FULL STACK DATASCIENCE & GENERATIVE AI =======
+
+project -1 : create prompt using basic python
+==
+	1- simple prompt creation in python 
+	2- prompt create based on user input function
+	3- promt creation using loops
+	4- Generating Multiple Prompts Dynamically Using Lists and Strings
+	5- Advanced Prompt Engineering 
+===	
+project-2 : open ai api key + streamlit 
+===
+   1- query & respone using python function  + openai 
+   2- PROMPT ENGINEERING UI + OPENAI + STREAMLIT 
+
+	
+how to create open ai api key :
+	free version is not works
+	
+1- platform.openai.com
+2- dashboard
+3- generate openai api key  - create new secret key 
+4- free openai api key 
+==== 
+introduction 
+what is prompt engineer
+indepth roadmap for prompt engineer
+project-1 : using python prompt creation 
+		input()
+		f string
+		def function 
+		step wise prompt
+		
+project-2 : opaiapi project 
+	1- python function (user query respns)
+	2- app.py ( func + stremlit + openai api)
+====
+prompt engineer part - 1 :
+https://www.youtube.com/watch?v=2n-RIgSNnwQ&t=3713s
+
+promput engineer part-2 :
+https://www.youtube.com/watch?v=HvqtHmeblvQ
+======
+	
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3- PROMPT ENGINEER 
+	LLM MODEL (LLM) SETTING
+ PROMPT ELEMENTS
+ PROMPT ENGINEERING TECHNIQUES (SHOT)
+ CHAIN OF THOUGHTS (COT) PROMPTING
+ SELF CONSISTENCY IN PROMPT ENGINEERING
+ Out of date learning IN PROMPT ENGINEERIN
+ ROLE PLAYING IN PROMPT ENGINEERING
+ RAG IN PROMPT ENGINEERING
+ REACT IN PROMPT ENGINEERING
+ DSP (Dynamic Structured Prompting)
+
+
+
+
+	
+
+
+
+	
